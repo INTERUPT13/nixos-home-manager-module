@@ -1,4 +1,3 @@
 {nixpkgs,...}:
 {
-  modules = [];
 }
